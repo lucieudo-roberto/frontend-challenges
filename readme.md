@@ -1,43 +1,43 @@
-# Página Inicial do Desenvolvedor
+# Página Inicial de Desafios Front-End
 
-Bem-vindo à Página Inicial do Desenvolvedor, onde você pode explorar e acessar nove projetos emocionantes para aprimorar suas habilidades em desenvolvimento web. 
+Bem-vindo à Página Inicial de Desafios Front-End, onde você pode explorar e acessar nove desafios empolgantes para aprimorar suas habilidades em desenvolvimento web.
 
-## Projetos
+## Desafios
 
-1. **Projeto Um:**
-   - [Link](https://github.com/seu-usuario/projeto-um)
-   - Descrição do projeto um.
+1. **Desafio 01:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_01)
+   - Descrição do Desafio 01.
 
-2. **Projeto Dois:**
-   - [Link](https://github.com/seu-usuario/projeto-dois)
-   - Descrição do projeto dois.
+2. **Desafio 02:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_02)
+   - Descrição do Desafio 02.
 
-3. **Projeto Três:**
-   - [Link](https://github.com/seu-usuario/projeto-tres)
-   - Descrição do projeto três.
+3. **Desafio 03:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_03)
+   - Descrição do Desafio 03.
 
-4. **Projeto Quatro:**
-   - [Link](https://github.com/seu-usuario/projeto-quatro)
-   - Descrição do projeto quatro.
+4. **Desafio 04:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_04)
+   - Descrição do Desafio 04.
 
-5. **Projeto Cinco:**
-   - [Link](https://github.com/seu-usuario/projeto-cinco)
-   - Descrição do projeto cinco.
+5. **Desafio 05:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_05)
+   - Descrição do Desafio 05.
 
-6. **Projeto Seis:**
-   - [Link](https://github.com/seu-usuario/projeto-seis)
-   - Descrição do projeto seis.
+6. **Desafio 06:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_06)
+   - Descrição do Desafio 06.
 
-7. **Projeto Sete:**
-   - [Link](https://github.com/seu-usuario/projeto-sete)
-   - Descrição do projeto sete.
+7. **Desafio 07:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_07)
+   - Descrição do Desafio 07.
 
-8. **Projeto Oito:**
-   - [Link](https://github.com/seu-usuario/projeto-oito)
-   - Descrição do projeto oito.
+8. **Desafio 08:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_08)
+   - Descrição do Desafio 08.
 
-9. **Projeto Nove:**
-   - [Link](https://github.com/seu-usuario/projeto-nove)
-   - Descrição do projeto nove.
+9. **Desafio 09:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_09)
+   - Descrição do Desafio 09.
 
-Fique à vontade para explorar, contribuir e aprimorar suas habilidades de desenvolvimento web com esses projetos! 🚀✨
+Sinta-se à vontade para explorar, contribuir e aprimorar suas habilidades de desenvolvimento web com esses desafios! 🚀✨
