@@ -2,6 +2,8 @@
 
 Bem-vindo à Página Inicial de Desafios Front-End, onde você pode explorar e acessar nove desafios empolgantes para aprimorar suas habilidades em desenvolvimento web.
 
+<img src="pages.png" alt="MarineGEO circle logo" style="height: 300px; width:250px;"/>
+
 ## Desafios
 
 1. **Desafio 01:**
