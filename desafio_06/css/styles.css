@@ -3,6 +3,11 @@
 *{padding: 0;margin: 0;text-decoration: none;box-sizing: border-box;}
 
 body {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100vh; 
+    margin: 0;
     background-color: #e0e8ff;
     background-image: url('../res/img_04.svg');
     background-repeat: no-repeat;
@@ -15,7 +20,6 @@ section.card {
 	width: min(450px,90%);
 	background-color: #fefefe;
 	overflow: hidden;
-	margin: 7% auto auto;
 	border-radius: 20px;
 }
 
