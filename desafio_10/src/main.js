@@ -8,7 +8,7 @@ const getAdivice = function() {
 
     fetch(API_URL).then((response)=> {
         response.json().then((data)=>{
-            adivice_id.innerText = data.slip.id
+            adivice_id.innerText = '#'+data.slip.id
             adivice_tx.innerText = data.slip.advice
         })
     })
