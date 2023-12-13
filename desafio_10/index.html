@@ -5,12 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <title> Advice Generator </title>
+    <script src="src/main.js"></script>
     <link rel="stylesheet" href="css/styles.css"/>
 </head>
 <body>
     <main id="t-main">
         <h1> ADIVICE <span class='adv-id' id="advice-id">#117</span></h1>
-        <p class='adv-msg' id="advice-msg">
+        <p class='adv-msg' id="advice-tx">
             ou can now listen to millions of songs, audiobooks, 
 			and podcasts on any device anywhere you like!
         </p>
@@ -20,7 +21,7 @@
         </picture>
 
         <div class="advice-bnt-box">
-            <img id="advice-bnt" class="adv-bnt" src="res/bnt.svg"/>
+            <img id="advice-bnt" class="adv-bnt" src="res/bnt.svg" onclick="getAdivice()"/>
         </div>
     </main>
 </body>
