@@ -1,4 +1,5 @@
 
+
 const getAdivice = function() {
     const API_URL = 'https://api.adviceslip.com/advice'
 
@@ -14,3 +15,5 @@ const getAdivice = function() {
 
     adivice_tx.innerText = 'Loading...'
 }
+
+window.onload = ()=>{ getAdivice() }
