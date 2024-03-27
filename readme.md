@@ -42,4 +42,14 @@ Bem-vindo à Página Inicial de Desafios Front-End, onde você pode explorar e a
    - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_09)
    - Descrição do Desafio 09.
 
-Sinta-se à vontade para explorar, contribuir e aprimorar suas habilidades de desenvolvimento web com esses desafios! 🚀✨
+10. **Desafio 10:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_10)
+   - Descrição do Desafio 10.
+
+11. **Desafio 11:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_11)
+   - Descrição do Desafio 11.
+
+12. **Desafio 12:**
+   - [Link](https://lucieudo-roberto.github.io/frontend-challenges/desafio_12)
+   - Descrição do Desafio 12.
