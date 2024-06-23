@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,20 +11,23 @@
     <main id="t-main">
         <div class="first-card">
             <h1> Stay updated! </h1>
-            <p class="fst-card-desc"> Join 60,000+ product managers receiving monthly updates on: </p>
+            <p class="fst-card-desc"> 
+                Join 60,000+ product managers receiving monthly updates on: 
+            </p>
             <ul>
                 <li>Product discovery and building what matters</li>
                 <li>Measuring to ensure updates are a success</li>
                 <li>And much more!</li>
             </ul>
-            <form>
-                <label for="email-inpt">Email address <span>Valid Email Required</span></label>
-                <input type="email" placeholder="email@company.com">
-                <button>Subscribe to monthly newsletter</button>
+            <form action='' method=''>
+                <label for="email-inpt">Email address <span class='invalid-msg'>Valid Email Required</span></label>
+                <input id='email-inpt' type="email" placeholder="email@company.com">
+                <button onclick="register()">Subscribe to monthly newsletter</button>
             </form>
         </div>
+
         <picture class="secund-card">
-            <source srcset="res/desktop.svg" media="(max-width: 767px) and (orientation: portrait)"/>
+            <source srcset="res/mobile.svg" media="(max-width: 700px) and (orientation: portrait)"/>
             <img src="res/desktop.svg" alt="" alt="h line imagem"/>
         </picture>
     </main>
